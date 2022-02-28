@@ -108,7 +108,7 @@ style "theme-panel-light"
 #{
 #	fg[NORMAL]	= "#000000"
 #	fg[PRELIGHT]	= "#000000"
-#	fg[ACTIVE]	= "#ffffff"
+#	fg[ACTIVE]	= "#FF007F"
 #	text[NORMAL]	= "#000000"
 #	text[PRELIGHT]	= "#000000"
 #	text[ACTIVE]	= "#ffffff"
